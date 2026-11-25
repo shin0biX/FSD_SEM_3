@@ -1,0 +1,21 @@
+{
+  "name": "product-inventory-management",
+  "version": "1.0.0",
+  "description": "SET C practical: Product Inventory Management API (B.Tech Second Year, Full Stack Development)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "set-c",
+    "full-stack",
+    "express",
+    "inventory"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
